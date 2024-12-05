@@ -3,6 +3,8 @@
     --text-color: #333;
     --background-color: #fff;
 }
+
+/* body */
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.6;
@@ -10,17 +12,19 @@ body {
     background-color: var(--background-color);
 }
 
+/* container */
 .container {
     width: 100%;
-    max-width: var(--max-width);
+    max-width: 790px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
-/* Navigation */
+/* navigation */
 .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 0;
 }
+
