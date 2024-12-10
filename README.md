@@ -5,4 +5,17 @@ https://docs.google.com/document/d/13aRbMObPKZO7RsBRZmrC1dTtbQVffVheup746PxgFVU/
 
 
 # Website link
-sirdre.ca
+[https://mru-comp2511-f2024.github.io/a3-personal-public-SirDre/](https://mru-comp2511-f2024.github.io/a3-personal-public-SirDre/)
+
+# References:
+
+    ### Docs
+    - W3Schools: https://www.w3schools.com/bootstrap5/index.php
+
+    ### Framework:
+    - Bootstrap: https://getbootstrap.com
+    - Fontawesome: https://fontawesome.com/search
+
+    ### Scripts
+    -- Nav: https://stackoverflow.com/questions/73266426/how-to-add-active-class-to-a-current-navbar-element
+
