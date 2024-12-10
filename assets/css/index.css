@@ -27,7 +27,7 @@
     height: 120%;
     background: var(--bs-primary);
     z-index: 0;
-    border-radius: 40% 60% 70% 30%;
+    border-radius: 50% 50%;
 }
 
 .profile-image {

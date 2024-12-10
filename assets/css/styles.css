@@ -50,7 +50,7 @@ body {
     transition: color 0.3s ease;
 }
 
-/* Underline indicator */
+/* underline indicator */
 .navbar-nav .nav-link::after {
     content: '';
     position: absolute;
